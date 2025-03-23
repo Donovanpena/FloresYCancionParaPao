@@ -4,13 +4,13 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Eres increíble", time: 10 },
-  { text: "Soy tu fan", time: 10 },
-  { text: "Dos días tarde pero quedó la página :D", time: 10 },
-  { text: "Ya no me odies tanto", time: 10 },
-  { text: "y no te vuelvas swiftie :( ", time: 10 },
-  { text: "La canción tiene bonita letra", time: 10 },
-  { text: "Así que creo que queda perfeta al ser para ti :D ", time: 15 },
+  { text: "Eres increíble", time: 5 },
+  { text: "Soy tu fan", time: 15 },
+  { text: "Dos días tarde pero quedó la página :D ", time: 25 },
+  { text: "Ya no me odies tanto", time: 35 },
+  { text: "y no te vuelvas swiftie :( ", time: 45 },
+  { text: "La canción tiene bonita letra", time: 55 },
+  { text: "Así que creo que queda perfecta al ser para ti :D ", time: 65 },
 ];
 
 // Animar las letras
